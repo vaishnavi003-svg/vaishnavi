@@ -32,19 +32,16 @@
 - 🔗 **GSSoC'26 Contributions** 
 ---
 
-### 🏆 GitHub Achievements
+### 🧠 LeetCode Progress
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavi&theme=radical&no-frame=true&row=2&column=4" />
+  <img src="https://leetcard.jacoblin.cool/vaishnavi_03_bhati?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
----
-
-### 📊 Coding Activity
-
-<p align="center">
-  <img src="https://wakatime.com/share/@vaishnavi/your-wakatime-id.svg" />
-</p>
+- 🟢 **105 Problems Solved**
+- ☕ **Primary Language:** Java
+- 🔥 **Active Days:** 120
+- 🏅 **Latest Badge:** 50 Days Badge 2026
 
 ### 🤝 Connect With Me
 
