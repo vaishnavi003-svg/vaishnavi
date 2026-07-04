@@ -32,14 +32,19 @@
 - 🔗 **GSSoC'26 Contributions** 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaishnavi&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavi&theme=radical&no-frame=true&row=2&column=4" />
 </p>
 
 ---
+
+### 📊 Coding Activity
+
+<p align="center">
+  <img src="https://wakatime.com/share/@vaishnavi/your-wakatime-id.svg" />
+</p>
 
 ### 🤝 Connect With Me
 
