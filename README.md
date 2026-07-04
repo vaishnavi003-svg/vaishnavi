@@ -32,12 +32,11 @@
 - 🔗 **GSSoC'26 Contributions** 
 ---
 
-### 🧠 LeetCode Progress
+### 🛠️ Tech Stack & Coding Profiles
 
-- 🟢 **105 Problems Solved**
-- ☕ **Primary Language:** Java
-- 🔥 **Active Days:** 120
-- 🏅 **Latest Badge:** 50 Days Badge 2026
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)
+[![LeetCode Profile](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Problems%20Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvaishnavi_03_bhati)](https://leetcode.com/u/vaishnavi_03_bhati/)
 
 ### 🤝 Connect With Me
 
