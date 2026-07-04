@@ -11,7 +11,7 @@
 
 - 🎓 B.Tech Computer Science & Engineering student at **Manav Rachna International Institute of Research and Studies (MRIIRS)**
 - 🌱 Currently deep-diving into **Data Structures & Algorithms with Java** — 50+ day practice streak
-- 🏆 **GirlScript Summer of Code 2026** Contributor — 35+ merged pull requests, Bounty Hunter & Master Bounty status
+- 🏆 **GirlScript Summer of Code 2026** Contributor
 - 📊 AI Data Analytics Intern @ **InAmigos Foundation** — researching AI-driven social impact across India
 - 💡 Actively seeking **SDE / Data Analytics internships**
 - 📫 Reach me at **pinkubhati03@gmail.com**
@@ -21,7 +21,6 @@
 ### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-2563EB?style=flat-square)
@@ -30,11 +29,7 @@
 
 ### 📌 Featured Work
 
-- 🔗 **GSSoC'26 Contributions** — [View my merged PRs](https://github.com/your-org/your-repo/pulls?q=is%3Apr+author%3Avaishnavi)
-- 🔗 **[Project Name](link)** — one-line description of what it does and tech used
-- 🔗 **[Project Name](link)** — one-line description of what it does and tech used
-- 🔗 **[Project Name](link)** — one-line description of what it does and tech used
-
+- 🔗 **GSSoC'26 Contributions** 
 ---
 
 ### 📈 GitHub Stats
