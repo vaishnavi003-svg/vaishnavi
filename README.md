@@ -24,7 +24,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-2563EB?style=flat-square)
-[![LeetCode Profile](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Problems%20So
 [![LeetCode Profile](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Problems%20Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvaishnavi_03_bhati)](https://leetcode.com/u/vaishnavi_03_bhati/)
 
 ---
