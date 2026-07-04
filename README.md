@@ -34,10 +34,6 @@
 
 ### 🧠 LeetCode Progress
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/vaishnavi_03_bhati?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
 - 🟢 **105 Problems Solved**
 - ☕ **Primary Language:** Java
 - 🔥 **Active Days:** 120
